@@ -1,0 +1,12 @@
+:root {
+  /**
+ * 按钮等主要颜色
+ *
+ */
+  --btn-primary-color: #2167fb;
+  /**
+ * 按钮等鼠标移上颜色
+ *
+ */
+  --btn-primary-color-light: #3776fb;
+}
